@@ -51,7 +51,7 @@ header nav a:hover {
 /* filme principal*/
 .filme-principal {
     font-size: 16px;
-    background-image: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url("/img/bridgerton-capa.jpg");
+    background-image: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url("https://i1.wp.com/www.ultraverso.com.br/wp-content/uploads/2020/11/Bridgerton.jpg?w=1280&ssl=1");
     
     height: 700px;
     background-size: cover;
